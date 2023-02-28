@@ -1,1 +1,1 @@
-My first readme
+Learning Dir Structuring in Git
